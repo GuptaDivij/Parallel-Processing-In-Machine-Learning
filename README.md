@@ -70,7 +70,7 @@ Sklearn RF → Accuracy: 0.9725, Time: 0.0651s
 
 Custom KNN implementations became unusable due to excessive runtime and resource consumption. Scikit-learn's KNN executed smoothly and accurately. Random Forest handled the data well across all versions, but Scikit-learn was still the most efficient.
 
-### 4) ** Very Large Dataset (n = 1,000,000)**
+### 4) **Very Large Dataset (n = 1,000,000)**
 
 Random Forest Benchmarks:
 Sequential RF → Accuracy: 0.9692, Time: 1.0405s
